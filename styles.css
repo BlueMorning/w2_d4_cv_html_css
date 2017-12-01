@@ -1,0 +1,23 @@
+header, footer {
+  background-color: pink;
+}
+
+#contents {
+  width: 80%;
+  margin: 40px auto;
+}
+
+#container {
+  background-color: #ededed;
+  display: flex;
+}
+
+nav {
+  width: 20%;
+  background-color: #d8d168;
+}
+
+main {
+  width: 80%;
+  background-color: gold;
+}
